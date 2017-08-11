@@ -1,2 +1,2 @@
 # hello-word
- prueba para como saber mas de Github
+ saber mas el funcionamiendo de Github
